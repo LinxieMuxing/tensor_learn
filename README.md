@@ -1,2 +1,2 @@
 # tensor_learn
-# jsut to learn tensorflow v1
+jsut to learn tensorflow v1
